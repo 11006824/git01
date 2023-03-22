@@ -5,4 +5,8 @@ hello word! hello hao!
 2222
 1233445667788
 
-master master --->locahost  11111
+master master --->remote  11111
+
+remote ----> localhost    22222
+
+
